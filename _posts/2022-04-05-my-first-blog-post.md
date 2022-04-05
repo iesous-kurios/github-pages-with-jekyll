@@ -1,1 +1,4 @@
-Just a place holder, more to come. 
+---
+title: "My first blog post"
+date: 2022-04-05
+---
