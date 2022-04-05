@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Soli Deo Gloria"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My journey through learning how to be a software engineer.
